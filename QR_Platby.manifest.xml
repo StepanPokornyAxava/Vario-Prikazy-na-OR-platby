@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<varioManifest>
+	<varioData fieldsAsAttributes="1">
+		<Firmy.Tiskove_formulare Tiskovy_formular="QR_Platby" Agenda="Příkazy" Zdroj_zaznamu="TF_Prikaz_25" Zdroj_tisku="Doklady" Pocet_kopii="1" Rozsah_tisku="2" Zakazany_rozsah="0" Moznosti="" Popis="Vytváří QR kódy z položek příkazů" Slozka="" Soubor="QR_Platby" Soubor_exportu="" Bez_knihy="0" Firma="" Skupiny="" Poradi="0" RowGUID="{guid {8937D1D6-883F-4A76-AB20-9A2BB5E89881}}"/></varioData>
+</varioManifest>
