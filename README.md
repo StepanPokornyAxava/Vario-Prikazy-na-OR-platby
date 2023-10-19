@@ -3,4 +3,4 @@ Tiskový formulář pro agendu Příkazy informačního systému Seyfor (dříve
 
 Mobilním telefonem dají pohodlně odesílat platby vyfocením platebního QR kódu. Pomocí tiskového formuláře QR platby si můžete vygenerovat QR platební kódy pro mobilní telefon přímo z příkazu Varia.
 
-Instalaci tiskového formuláře si můžete stáhnout v sekci Release. Tiskový formulář je k dispozici zdarma.
+Instalaci tiskového formuláře si můžete stáhnout v sekci Releases (https://github.com/StepanPokornyAxava/Vario-QR-platby-pro-Prikazy/releases). Tiskový formulář je k dispozici zdarma.
